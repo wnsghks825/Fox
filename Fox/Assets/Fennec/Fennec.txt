@@ -1,0 +1,77 @@
+Fennec 3D model.
+
+Include scene demo
+25 Animations in Root Motion
+3 Textures (4096x4096)
+1 Materials
+1 Prefab
+1 Animator Controller
+1 Skybox
+2 Scripts
+
+Low poly model
+
+5642 quad polygons on this mesh
+5747 vertices on this mesh
+
+Textures
+Fennec_D
+Fennec_Eyes_D
+Fennec_N
+
+Animations List
+attack
+die
+eat
+getup
+growl
+hit
+idle
+idlelay
+jump
+lay
+run
+runattack
+runleft
+runright
+sleep
+sniffs
+sniffsleft
+sniffsright
+threat
+trot
+trotleft
+trotright
+turnleft
+turnright
+walk
+
+Scene Demo
+keys for enable animations
+
+W=walk
+A=turnleft
+D=turnright
+W+Altright=sniffs
+A+Altright=sniffsleft
+D+Altright=sniffsright
+W+Shiftright=trot
+A+Shiftright=trotleft
+D+Shiftright=trotright
+w+Ctrlright=run
+A+Ctrlright=runleft
+D+Ctrlright=runright
+w+Ctrlright+F=runattack
+A+Ctrlright+F=runattack
+D+Ctrlright+F=runattack
+w+F=attack
+E=eat
+R=lay/getup
+S=sleep
+w+Ctrlright+Space=jump
+A+Ctrlright+Space=jump
+D+Ctrlright+Space=jump
+Keypad1=hit
+Keypad0=die
+
+enjoy game age:)
